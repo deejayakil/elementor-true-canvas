@@ -1,34 +1,43 @@
 # Elementor True Canvas
 
+> ⚠️ **Commercial Plugin – Not Free**  
+> This plugin is **not open source** and is **not available for free download**.  
+> The full version is sold exclusively.  
+> Any unauthorized copying, distribution, or use of the source code is strictly prohibited.
+
 **See exactly what your visitors see — directly in the Elementor editor.**
 
 ### Overview
-Elementor True Canvas solves the frustrating mismatch between the Elementor editor canvas and the real visitor view caused by the sidebar and top bar.
+Elementor True Canvas solves the common frustration where the Elementor editor canvas doesn’t match the real visitor view because of the sidebar and top bar.
 
-This plugin adds a clean, draggable slider that intelligently scales the editor canvas to match the **exact dimensions and ratio** your visitors will see in their browser.
+It adds a clean, draggable slider that scales the editor canvas to match the **exact dimensions and ratio** your visitors will see in their browser.
 
-No more guessing. No more constant preview switching. Design with confidence.
+No more guessing. Design with confidence.
 
-### Features
-- Simple slider (60% – 100%) to adjust canvas scale
-- Automatically saved settings per user
-- Draggable control bar (you can move it anywhere)
-- Ultra lightweight & fast
-- Touch support (tablet friendly)
-- Fully compatible with Elementor 3.x and 4.x (including Editor V4)
+### Key Features
+- Simple slider from 60% to 100% to adjust canvas scale
+- Settings automatically saved for each user
+- Draggable control bar (move it anywhere on screen)
+- Very lightweight and fast
+- Touch friendly (works on tablets)
+- Compatible with Elementor 3.x and 4.x (including Editor V4)
 
 ### Technical Specifications
 - **Creator & Inventor**: Jeremie Margueron (born March 10, 1977)
 - **Created**: March 31, 2026
 - **Version**: 1.0
-- **Compatibility**: WordPress 6.0+, Elementor Free & Pro, Hostinger, Chrome/Firefox/Safari/Edge
-- **Platforms**: Windows, macOS, Linux
+- **Compatibility**: WordPress 6.0+, Elementor Free & Pro, Hostinger and most hosts
+- **Tested on**: Windows, macOS, Linux – Chrome, Firefox, Safari, Edge
 
-### Copyright
-© 2026 Jeremie Margueron — All rights reserved.  
-This plugin is original work and protected by international copyright law.
+### Copyright & Licensing
+© 2026 Jeremie Margueron — All rights reserved.
 
-For commercial licensing or inquiries: deejayakil@gmail.com
+This is a **commercial product**.  
+This repository contains only the documentation and copyright information.  
+The full plugin is **not available** in this repository and is sold exclusively.
+
+For purchase or licensing inquiries:  
+**deejayakil@gmail.com**
 
 ---
 
