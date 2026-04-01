@@ -1,6 +1,6 @@
 # Copyright Notice
 
-**Plugin Name:** Elementor True Canvas  
+**Plugin Name:** Real Editor Size for Elementor
 **Creator & Inventor:** Jeremie Margueron  
 **Date of Birth:** March 10, 1977  
 **Creation Date:** March 31, 2026  
